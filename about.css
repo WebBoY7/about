@@ -771,7 +771,7 @@ footer {
 .mountain1,
 .mountain2 {
     position: absolute;
-    bottom: 0;
+    bottom: -10px;
     left: 0;
     width: 100vw;
 }
