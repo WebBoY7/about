@@ -19,7 +19,7 @@ a {
 }
 
 header {
-    width: 100%;
+    width: 100vw;
     padding: 2% 6%;
     font-family: var(--font-family-p);
     position: fixed;
