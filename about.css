@@ -445,7 +445,7 @@ main > img {
   color: #3A3939;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 900px) {
   .history-content-wrapper > img {
     max-width: 500px;
     -webkit-transform: translatex(-25%);
