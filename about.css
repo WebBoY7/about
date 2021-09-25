@@ -210,6 +210,10 @@ nav {
   margin-top: 6.5%;
 }
 
+.header-content>img {
+    display: inline-block;
+}
+
 @media (min-width: 1050px) {
   .header-content {
     margin-top: 5.5%;
