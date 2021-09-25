@@ -610,6 +610,7 @@ main > img {
 .principal-content,
 .incharge-content {
   opacity: 0;
+  pointer-events: none;
   -webkit-transition: 200ms;
   transition: 200ms;
 }
@@ -740,6 +741,7 @@ main > img {
 .principal-card:hover .principal-content,
 .incharge-card:hover .incharge-content {
   opacity: 1;
+  pointer-events: auto;
 }
 
 .coOrdinator-card:hover .indicator,
