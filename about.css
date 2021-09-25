@@ -256,6 +256,7 @@ nav {
 }
 
 main {
+  width:100%;
   text-align: center;
   padding: 3rem 6% 5rem 6%;
   background: -webkit-gradient(linear, left bottom, right top, from(#0081D1), to(#463CD4));
